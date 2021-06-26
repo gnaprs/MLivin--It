@@ -1,6 +1,8 @@
 # MLivin' It
 ## Welcome to MLivin' It. The app engineering productive health, anytime, anywhere.
 
+![MLivin' It](https://i.imgur.com/GFV8iVd.png)
+
 ### Dataset
 Here, you'll find the implementation of our DCNN Resnet-18 model used to perform image classification of pictures taken from your very own phone gallery. In this implementation, we tackle a small-scale multiclass classification problem with 5 different foods:
 - nasi lemak
